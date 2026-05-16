@@ -3,19 +3,18 @@ import { fileURLToPath } from 'url';
 import log from '#lib/logger.js';
 
 global.ownerNumber = Object.freeze([
-  '62882005514880',
-  '62882003353414'
+  '6281223473806'
 ]);
 
 global.pubelik = true;
 
 global.stickpack = 'Created By';
-global.stickauth = 'EternityBot';
-global.copyright = '© 2025 - VryptLabs';
-global.title = 'EternityBot';
+global.stickauth = 'Kino-WBot';
+global.copyright = '© 2025 - Faridh';
+global.title = 'Kino-WBot';
 global.body = 'A lightweight and efficient WhatsApp bot built with Node.js and Baileys.';
 global.source = 'https://github.com/VryptLab/EternityBot';
-global.newsletter = '120363404886887749@newsletter';
+global.newsletter = '120363399511075764@newsletter';
 
 const BASE_URL = 'https://raw.githubusercontent.com/VryptLab/.github/refs/heads/main/';
 global.thumbnail = `${BASE_URL}banner.png`;
